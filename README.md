@@ -1,4 +1,7 @@
 https://docs.google.com/document/d/1du24n9Z4Fl2JJnisQgB1Q57r9NaTIgmhN-k9hFxfJlQ/edit?usp=sharing
+
+
+https://docs.google.com/file/d/1Hvnx8-MGo76XILa4wKneXs2HQuf1yRKs/edit?usp=docslist_api&filetype=mspresentation
 Introduction to Nuxt
 Chapter 1: Introduction to Nuxt
 Slide 1: What is Nuxt?
